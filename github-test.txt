@@ -5,3 +5,9 @@ Pretty cool if I can start using it properly though
 
 Everything else below will be from the Linux box hopefully. 
 
+Wow now I can make some local changes here! 
+
+EG ZoneFile
+
+@		IN 	A	1.1.1.1
+@		IN	MX	10 mx1.sendmybloodyemails.com.
