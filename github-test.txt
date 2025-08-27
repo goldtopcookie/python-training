@@ -11,3 +11,4 @@ EG ZoneFile
 
 @		IN 	A	1.1.1.1
 @		IN	MX	10 mx1.sendmybloodyemails.com.
+www		IN	CNAME	gunsandammo.com.
