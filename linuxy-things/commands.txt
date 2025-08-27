@@ -1,0 +1,2 @@
+========= List of Linux Commands ==========
+sudo apt upgrade
