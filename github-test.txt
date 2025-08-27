@@ -1,0 +1,7 @@
+This is just a test to see if this shows up on my server somehow. 
+Essentially this is just SharePoint for Linuxy people.
+Pretty cool if I can start using it properly though
+========== TESTING FROM WEB CLIENT ================
+
+Everything else below will be from the Linux box hopefully. 
+
